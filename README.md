@@ -32,7 +32,6 @@ Quiz zawiera pytania z różnych dziedzin i jest dobrym przykładem nauki tworze
 <img width="457" height="782" alt="Zrzut ekranu 2025-11-27 132430" src="https://github.com/user-attachments/assets/b8ad3ffa-142c-40cd-b61d-d479933b5511" />
 <img width="1599" height="899" alt="Zrzut ekranu 2025-11-27 132312" src="https://github.com/user-attachments/assets/b0f960d8-2c8b-41ba-8eb0-cb6a9efb94e8" />
 <img width="1599" height="899" alt="Zrzut ekranu 2025-11-27 132532" src="https://github.com/user-attachments/assets/6034e38b-c6ae-47a2-9f8b-6cf69666a523" />
-ranu 2025-11-27 132554" src="https://github.com/user-attachments/assets/77b1316d-5583-4f7e-9a28-a186b3a29af3" />
 <img width="1596" height="897" alt="Zrzut ekranu 2025-11-27 132646" src="https://github.com/user-attachments/assets/19e85300-623b-4839-a0be-4e93b85013d2" />
 1. **Sklonuj repozytorium**
 
